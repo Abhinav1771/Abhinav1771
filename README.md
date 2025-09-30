@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **fcabhinav01@gmail.com**
 
-- ⚡ Fun fact **I think it is better to have some childness alive inside us.**
+- ⚡ Fact **I think it is better to have some childness alive inside us.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
