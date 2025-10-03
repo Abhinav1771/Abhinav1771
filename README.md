@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **A Secret Project**
 
-- 🌱 I’m currently learning **NLP and agentic AI**
+- 🌱 I’m currently learning **LangChain**
 
 - 📝 I write article and books on [https://github.com/Abhinav1771/Blogs.git](https://github.com/Abhinav1771/Blogs.git)
 
